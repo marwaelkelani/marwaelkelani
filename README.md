@@ -1,5 +1,32 @@
 ### Hi there 👋
 
+const marwa = {
+  skills: {
+  
+    languages: [html, css, javaScript, typeScript],
+    
+    frameworksLibraries: [nodeJs, angular, jQuery, bootstrap],
+    
+    databases: [sql, git, mariadb],
+
+    testing: [postman],
+
+    other: [canva, gitHub, figma]
+  }
+
+likes: [ design, dogs, baking ],
+
+currentlyLearning: {
+
+    languages: [python],
+
+    frameworksLibraries: [ reactJS ],
+
+    other: [ AWS ]
+  }  
+
+}
+
 <!--
 **marwaelkelani/marwaelkelani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
