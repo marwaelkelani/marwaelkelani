@@ -13,7 +13,7 @@ const marwa = {
 
     testing: [postman],
 
-    other: [canva, gitHub, figma]
+    other: [canva, gitHub, figma, localStorage]
   },
 
   likes: [ design, dogs, baking ],
