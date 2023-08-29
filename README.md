@@ -9,7 +9,7 @@ const marwa = {
     
     frameworksLibraries: [nodeJs, angular, jQuery, bootstrap],
     
-    databases: [sql, git, mariadb],
+    databasesVersionControl: [sql, mariadb, git],
 
     testing: [postman],
 
