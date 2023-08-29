@@ -20,7 +20,7 @@ const marwa = {
 
   currentlyLearning: {
 
-    languages: [python],
+    languages: [python, C#, .NET],
 
     frameworksLibraries: [ reactJS ],
 
