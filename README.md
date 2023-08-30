@@ -7,7 +7,7 @@ const marwa = {
   
     languages: [html, css, javaScript, typeScript],
     
-    frameworksLibraries: [nodeJs, angular, jQuery, bootstrap],
+    frameworksLibraries: [nodeJs, angular, ionic, jQuery, bootstrap],
     
     databasesVersionControl: [sql, mariadb, git],
 
