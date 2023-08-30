@@ -11,7 +11,7 @@ const marwa = {
     
     databasesVersionControl: [sql, mariadb, git],
 
-    testing: [postman],
+    testing: [postman, androidStudio],
 
     other: [canva, gitHub, figma, localStorage]
   },
@@ -20,9 +20,9 @@ const marwa = {
 
   currentlyLearning: {
 
-    languages: [python, C#, .NET],
+    languages: [python, C#],
 
-    frameworksLibraries: [ reactJS ],
+    frameworksLibraries: [ reactJS, .NET ],
 
     other: [ AWS ]
   }  
