@@ -5,7 +5,7 @@ const marwa = {
 
   skills: {
   
-    languages: [html, css, javaScript, typeScript, C#],
+    languages: [html, css, javaScript, typeScript],
     
     frameworksLibraries: [nodeJs, angular, ionic, jQuery, bootstrap],
     
